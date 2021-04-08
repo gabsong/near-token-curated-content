@@ -1,0 +1,28 @@
+{
+  "name": "near-token-curated-content",
+  "version": "1.0.0",
+  "description": "This smart contract allows users to post content and challenge content integrity to be rewarded.",
+  "main": "index.js",
+  "scripts": {
+    "build": "asb",
+    "test": "asp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabsong/near-token-curated-content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabsong/near-token-curated-content/issues"
+  },
+  "homepage": "https://github.com/gabsong/near-token-curated-content#readme",
+  "devDependencies": {
+    "near-sdk-as": "3.1.0"
+  },
+  "dependencies": {
+    "dotenv": "8.2.0",
+    "near-api-js": "0.39.0"
+  }
+}
